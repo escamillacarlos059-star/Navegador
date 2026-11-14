@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Vectra</string>
+    <string name="omnibox_hint">Buscar o escribir dirección web</string>
+    <string name="tab_new">Nueva pestaña</string>
+    <string name="tab_new_incognito">Pestaña privada</string>
+    <string name="tab_home_title">Inicio — Vectra</string>
+    <string name="nav_back">Atrás</string>
+    <string name="nav_forward">Adelante</string>
+    <string name="nav_reload">Recargar</string>
+    <string name="nav_stop">Detener</string>
+    <string name="nav_home">Inicio</string>
+    <string name="nav_tabs">Pestañas</string>
+    <string name="nav_menu">Menú del navegador</string>
+    <string name="menu_bookmarks">Marcadores</string>
+    <string name="menu_history">Historial</string>
+    <string name="menu_add_bookmark">Guardar marcador</string>
+    <string name="menu_remove_bookmark">Quitar marcador</string>
+    <string name="menu_desktop_mode">Sitio de escritorio</string>
+    <string name="menu_find_in_page">Buscar en la página</string>
+    <string name="menu_share">Compartir enlace</string>
+    <string name="menu_open_system_browser">Abrir en navegador del sistema</string>
+    <string name="menu_cpp_engine">Motor C++20 y Escudo</string>
+    <string name="shield_active">Escudo C++ activo</string>
+    <string name="shield_paused">Escudo pausado</string>
+    <string name="incognito_badge">Privado</string>
+    <string name="empty_bookmarks">Aún no tienes marcadores guardados.\nToca la estrella en cualquier sitio web para guardarlo.</string>
+    <string name="empty_history">Tu historial de navegación está vacío.\nLas páginas que visites aparecerán aquí.</string>
+</resources>

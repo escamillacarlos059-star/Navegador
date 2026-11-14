@@ -1,0 +1,6 @@
+{
+  "name": "Vectra",
+  "description": "Navegador web moderno de alto rendimiento con motor nativo C++20, bloqueo de rastreadores en tiempo real, pestañas múltiples, modo privado e integración como navegador del sistema Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
